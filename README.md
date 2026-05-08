@@ -92,4 +92,22 @@ I want to make this the best offline AI chat tool!
 
 👉 [Open an Issue on GitHub](https://github.com/Hdoughmosch/offline-ai-chat/issues)
 
+## 🤖 Agent Mode (Coming Soon)
+
+I am working on a **massive update** that will turn `chat.py` into a real AI Agent that can do things on your computer - not just chat!
+
+### What Will the AI Be Able to Do?
+
+| Task | Example Command |
+|------|-----------------|
+| 🔍 **Search your files** | "Find all PDF invoices in my Downloads folder" |
+| 🌐 **Check your network** | "Scan my local network for connected devices" |
+| 📁 **Read and analyze files** | "Read my error.log and tell me what's wrong" |
+| ✏️ **Create and save files** | "Write a Python script and save it to my desktop" |
+| 🖧 **Check open ports** | "Check if port 443 is open on google.com" |
+| ⚙️ **Run system commands** | "Show me all running processes" |
+| 🛡️ **Security scanning** | "Check my server logs for suspicious activity" |
+
+
+
 
