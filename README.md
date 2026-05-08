@@ -60,7 +60,7 @@ Step 4: Save and restart
 Press Ctrl + S to save, close Notepad, then restart the application:
 
 ```bash
-python chat.py
+python Chat.py
 ```
 
 That's it! Your chat will now use the new AI model.
