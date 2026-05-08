@@ -108,6 +108,13 @@ I am working on a **massive update** that will turn `chat.py` into a real AI Age
 | ⚙️ **Run system commands** | "Show me all running processes" |
 | 🛡️ **Security scanning** | "Check my server logs for suspicious activity" |
 
+## 📸 Screenshot
+
+Here is what the chat interface looks like:
+
+![Offline AI Chat Bot Interface](scr1.jpg)
+
+
 
 
 
