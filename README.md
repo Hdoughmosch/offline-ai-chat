@@ -74,3 +74,22 @@ That's it! Your chat will now use the new AI model.
 ⭐ Support this project by giving it a star on GitHub!
 
 Your star helps others discover this project 
+
+
+## 💬 Help Me Make This #1
+
+I want to make this the best offline AI chat tool!
+
+**Features I can add:**
+- Dark mode
+- Chat history save/export
+- Document upload (PDF, Word, TXT)
+- Voice input
+- Auto model switcher
+- Search chat history
+
+**Tell me what YOU want!**
+
+👉 [Open an Issue on GitHub](https://github.com/Hdoughmosch/offline-ai-chat/issues)
+
+
