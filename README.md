@@ -66,3 +66,11 @@ python chat.py
 That's it! Your chat will now use the new AI model.
 
 
+🔮 Coming Soon in Next Update
+
+· Auto Model Detection - The app will automatically show you a list of all your installed models
+· One-Click Model Switching - Change models directly from the web interface without editing files
+
+⭐ Support this project by giving it a star on GitHub!
+
+Your star helps others discover this project 
