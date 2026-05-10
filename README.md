@@ -1,7 +1,4 @@
-
-new update i talk about it in video
-
-https://www.linkedin.com/posts/husam-doughmosch-085568407_help-list-translate-ugcPost-7458916556354473984-jW8E?utm_source=share&utm_medium=member_android&rcm=ACoAAGfYCGUBE_EYqLgx_BWO9GIrm148_orC5WQ
+📺 **New update walkthrough**: [Watch the video on LinkedIn](https://www.linkedin.com/posts/husam-doughmosch-085568407_help-list-translate-ugcPost-7458916556354473984-jW8E)
 
 
 # Offline AI Chat Bot
