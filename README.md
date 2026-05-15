@@ -3,7 +3,8 @@ New Features – Coming Soon
 
 See the latest feature updates and code improvements in my LinkedIn post:
 
-[![LinkedIn Post](https://img.shields.io/badge/📢_See_Updates_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/husam-doughmosch-085568407_ollama-ai-machinelearning-ugcPost-7461055040875606016-s5kU)
+> **📢 NEW FEATURES – COMING SOON**  
+> 👉 [Click here to see the full update on LinkedIn](https://www.linkedin.com/posts/husam-doughmosch-085568407_ollama-ai-machinelearning-ugcPost-7461055040875606016-s5kU)
 
 
 # Offline AI Chat
