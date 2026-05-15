@@ -1,3 +1,12 @@
+
+New Features – Coming Soon
+
+See the latest feature updates and code improvements in my LinkedIn post:
+
+https://www.linkedin.com/posts/husam-doughmosch-085568407_ollama-ai-machinelearning-ugcPost-7461055040875606016-s5kU
+
+
+
 # Offline AI Chat
 
 By default, chat.py uses a model named my_model. To use a different model, follow these steps:
